@@ -1,0 +1,5 @@
+x = int(input('birsayıgir='))
+y = input('ikincisayıyıgir=')
+toplam = (x) + int(y)
+print('sonuc=', toplam)
+print(type (x),type(y))

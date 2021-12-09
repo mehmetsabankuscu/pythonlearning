@@ -1,0 +1,5 @@
+Ali Veli:70,50,60
+Mehmet Dop:82,90,100
+Deniz Efe Kurt:80,90,40
+Pınar Alan Tır:55,63,21
+Demir Alıç:10,10,5
